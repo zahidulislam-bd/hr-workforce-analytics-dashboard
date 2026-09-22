@@ -1,4 +1,4 @@
-# HR Workforce Analytics Dashboard (Excel + Power Query + VBA
+# HR Workforce Analytics Dashboard (Excel + Power Query + VBA)
 HR analytics dashboard built on a 1,000-record employee 
 dataset, covering headcount, demographics, leave, compensation, and 
 skills, with one-click data refresh.
